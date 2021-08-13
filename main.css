@@ -14,10 +14,6 @@ a {
   font-size: 14px;
 }
 
-img {
-  max-width: 100%;
-}
-
 h1 {
   font-size: 58px;
   font-weight: bold;
@@ -235,6 +231,7 @@ header h3 {
 }
 #s3 #video img {
   margin: auto;
+  max-width: 100%;
 }
 
 #s3__text-right {
